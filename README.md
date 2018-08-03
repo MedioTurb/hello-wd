@@ -1,2 +1,2 @@
 # hello-wd
-just test.
+Now it's time to study more！
